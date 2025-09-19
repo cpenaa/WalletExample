@@ -1,4 +1,4 @@
-Proyecto WALLET
+Proyecto YAPE
 Integrantes:
 - Angel Raul Caceres Pari
 - Diego Gustavo Montana Neyra
